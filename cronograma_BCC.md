@@ -1,4 +1,4 @@
-# Cronograma
+# Cronograma BCC
 
 Local: Remoto (MS-Teams)  
 Dia da semana: quinta-feira (18:30\~22:00)  

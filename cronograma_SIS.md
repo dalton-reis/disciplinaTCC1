@@ -1,4 +1,4 @@
-# Cronograma
+# Cronograma SIS
 
 Local: Remoto (MS-Teams)  
 Dia da semana: terça-feira (18:30\~22:00)  
