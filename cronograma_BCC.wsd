@@ -1,0 +1,88 @@
+@startgantt cronograma_BCC
+
+/'TODO: tentar usar variáveis do sistema: <https://blog.jdriven.com/2017/01/plantuml-pleasantness-using-current-date/>  '/
+/'atualizar'/
+!$dataInicio = "2022-08-04"
+!$dataFim  = "2022-12-03"
+!$Aula01 = $dataInicio
+!$Aula02 = "2022-08-11"
+!$Aula03 = "2022-08-18"
+!$Aula04 = "2022-08-25"
+!$Aula05 = "2022-09-01"
+!$Aula06 = "2022-09-08"
+!$Aula07 = "2022-09-15"
+!$Aula08 = "2022-09-22"
+!$Aula09 = "2022-09-29"
+!$Aula10 = "2022-10-06"
+!$Aula11 = "2022-10-13"
+!$Aula12 = "2022-10-20"
+!$Aula13 = "2022-10-27"
+!$Aula14 = "2022-11-03"
+!$Aula15 = "2022-11-10"
+!$Aula16 = "2022-11-17"
+!$Aula17 = "2022-11-24"
+!$Aula18 = "2022-12-01"
+!$Aula18 = $dataFim
+
+!$dataAtual  = $Aula01
+/'atualizar'/
+
+ganttscale weekly
+
+Project starts $dataInicio
+
+-- cronograma -- 
+[completado] is colored in green
+[completado] starts $dataInicio and ends $dataAtual
+[falta] starts $dataAtual and ends $dataFim
+[falta] is colored in blue
+
+-- Aulas -- 
+[Termo] is colored in Red
+[Termo]  starts $Aula01 and ends $Aula03
+[Aula01] starts $Aula01 and ends $Aula01
+[Aula02] starts $Aula02 and ends $Aula02
+[Aula03] starts $Aula03 and ends $Aula03
+note bottom
+Entrega: Termo de Compromisso
+end note
+[Pré-projeto (BCC)] starts at [Termo]'s end
+[Pré-projeto (BCC)] ends $Aula09
+[Aula04] starts $Aula04 and ends $Aula04
+[Aula05] starts $Aula05 and ends $Aula05
+[Aula06] starts $Aula06 and ends $Aula06
+[Aula07] starts $Aula07 and ends $Aula07
+[Aula08] starts $Aula08 and ends $Aula08
+[Aula09] starts $Aula09 and ends $Aula09
+note bottom
+Entrega: Pré-projeto (BCC) 
+end note
+[Aula10] starts $Aula10 and ends $Aula10
+[Banca] starts at [Pré-projeto (BCC)]'s end with green dashed link
+[Banca] ends $Aula13
+[Aula11] starts $Aula11 and ends $Aula11
+note bottom
+Bancas (BCC) 
+end note
+[Aula12] starts $Aula12 and ends $Aula12
+note bottom
+Bancas (BCC) 
+end note
+[Aula13] starts $Aula13 and ends $Aula13
+[Projeto] starts at [Banca]'s end with cyan dashed link
+[Projeto] ends $Aula17
+[Aula14] starts $Aula14 and ends $Aula14
+[Aula15] starts $Aula15 and ends $Aula15
+[Aula16] starts $Aula16 and ends $Aula16
+[Aula17] starts $Aula17 and ends $Aula17
+note bottom
+Entrega: Projeto 
+end note
+[Final] starts at [Projeto]'s end with blue dashed link
+[Final] ends $Aula18
+note bottom
+Avaliações: Projetos
+end note
+[Aula18] starts $Aula18 and ends $Aula18
+
+@endgantt
