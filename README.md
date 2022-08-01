@@ -1,4 +1,4 @@
-<!-- [ ]TODO:INICIO atualizar -->
+<!-- [x]TODO:INICIO atualizar -->
 [AVA3 BCC]: <https://ava3.furb.br/course/view.php?id=31568> "AVA3 BCC"  
 [Plano Ensino AVA BCC]: <https://ava3.furb.br/course/view.php?id=31568&section=1> "Plano Ensino AVA BCC"  
 [Aulas MS-Teams BCC]: <https://teams.microsoft.com/l/meetup-join/19%3adLzBm18ut0iOYmMjUd4FqE2XfKKsKe3vsJ45CLLCmyg1%40thread.tacv2/1659394207918?context=%7b%22Tid%22%3a%220c2d222a-ecda-4b70-960a-acef6ced3052%22%2c%22Oid%22%3a%226af4c44a-d9df-45de-a1b2-d9ee411f495f%22%7d> "Aulas MS-Teams BCC"  
