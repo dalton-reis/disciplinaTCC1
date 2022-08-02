@@ -28,7 +28,7 @@ Este é o principal material da disciplina de Trabalho de Conclusão de Curso I.
 
 ### Links SIS
 
-[Grade SIS](grade_SIS.pdf "Grade SIS)  
+[Grade SIS](grade_SIS.pdf "Grade SIS")  
 [AVA3 SIS]  
 [Plano Ensino AVA SIS]  
 [Aulas MS-Teams SIS]  
