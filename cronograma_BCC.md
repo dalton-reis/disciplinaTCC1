@@ -109,7 +109,7 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 - Revisão dos Pré-Projeto pelos professores de TCC1 e avaliadores.  
 - **Semana de bancas (BCC)**  
-[Escola Regional de Engenharia de Software - ERES](<https://eres-sbc-br.github.io/eres2022/> "Escola Regional de Engenharia de Software - ERES")  
+- [Escola Regional de Engenharia de Software - ERES](<https://eres-sbc-br.github.io/eres2022/> "Escola Regional de Engenharia de Software - ERES")  
 
 ### [Aula_13] 27-10-2022 quinta-feira
 
