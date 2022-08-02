@@ -46,7 +46,7 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ### [Aula_02] 11-08-2022 quinta-feira
 
-<!-- [ ] Aviso: Termo atraso <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391> -->  
+<!-- [ ][ ] Aviso: Termo atraso <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391> -->  
 - Como estabelecer um problema de pesquisa  
 - Modelos dos Projetos  
 - Partes constituintes do Projeto  
@@ -66,8 +66,8 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ### [Aula_04] 25-08-2022 quinta-feira
 
-<!-- [ ] Aviso: Orientadores <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750> -->
-<!-- [ ] Aviso: banca BCC <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813> -->
+<!-- [ ][ ] Aviso: Orientadores <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750> -->
+<!-- [ ][ ] Aviso: banca BCC <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813> -->
 - Pré-Projeto - Formulação  
 
 ### [Aula_05] 01-09-2022 quinta-feira
@@ -80,7 +80,7 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ### [Aula_07] 15-09-2022 quinta-feira
 
-<!-- [ ] aviso Atendimento BCC: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67514804> -->  
+<!-- [ ][ ] aviso Atendimento BCC: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67514804> -->  
 - Pré-Projeto - Atendimento Individual  
 <!-- **[Atendimento BCC](Material/AtendimentoBCC.png "Atendimento BCC")** -->  
 

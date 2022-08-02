@@ -45,7 +45,7 @@ Dia da semana: terça-feira (18:30\~22:00)
 
 ### [Aula_02] 09-08-2022 terça-feira
 
-<!-- [ ] Aviso: Termo atraso <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391> -->  
+<!-- [ ][ ] Aviso: Termo atraso <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391> -->  
 - Como estabelecer um problema de pesquisa  
 - Modelos dos Projetos  
 - Partes constituintes do Projeto  
@@ -65,8 +65,8 @@ Dia da semana: terça-feira (18:30\~22:00)
 
 ### [Aula_04] 23-08-2022 terça-feira
 
-<!-- [ ] Aviso: Orientadores <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750> -->
-<!-- [ ] Aviso: banca SIS <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445856> -->  
+<!-- [ ][ ] Aviso: Orientadores <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750> -->
+<!-- [ ][ ] Aviso: banca SIS <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445856> -->  
 - Pré-Projeto - Formulação  
 
 ### [Aula_05] 30-08-2022 terça-feira
@@ -79,7 +79,7 @@ Dia da semana: terça-feira (18:30\~22:00)
 
 ### [Aula_07] 13-09-2022 terça-feira
 
-<!-- [ ] aviso Atendimento SIS: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67514774> -->  
+<!-- [ ][ ] aviso Atendimento SIS: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67514774> -->  
 - Pré-Projeto - Atendimento Individual  
 <!-- **[Atendimento SIS](Material/AtendimentoSIS.png "Atendimento SIS")** -->
 
