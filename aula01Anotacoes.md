@@ -20,7 +20,7 @@
 
 ## Apresentação da Disciplina
 
-- **Avisos**: todos os avisos serão feitos todos pelo Teams  
+- **Avisos**: todos os avisos serão feitos por e-mail institucional (aluno@furb.br)  
 - [ ][ ] [AVA3 BCC]  
 - [ ][ ] [AVA3 SIS]  
 

@@ -144,4 +144,4 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 -----------
 
-Último dia para entregar os diários de classe 2022/1: 28/06/22 - 05/07/22  
+Último dia para entregar os diários de classe 2022/2: 03/12/22 - 13/12/22  
