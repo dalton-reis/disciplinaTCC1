@@ -29,16 +29,16 @@
 [ ][ ] [Plano Ensino AVA BCC]  
 [ ][ ] [Plano Ensino AVA SIS]  
 
-Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
+Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 
-- Quantidade de créditos: 4  
-- Parte teórica, atendimento individual, revisão + ajustes ...
-- Data: prazos **muito importante** ... pode resultar em reprovação  
-- Entregáveis: atendendo critérios mínimos, senão nem é aceito  
-- Referências bibliográficas: ABNT, modelos, exemplos ...  
-- Proatividade: o principal papel do orientando (o aluno)  
-- só vale a pena fazer essa disciplina quem quer fazer o TCC nos dois próximos semestres (TEM DATA DE VALIDADE)  
-- coorientador vai ser avaliador em SIS, mas não em BCC  
+- Quantidade de créditos: 4;  
+- Parte teórica, atendimento individual, revisão + ajustes etc.;  
+- Data: prazos **muito importante** ... pode resultar em reprovação;  
+- Entregáveis: atendendo critérios mínimos, senão nem é aceito;  
+- Referências bibliográficas: ABNT, modelos, exemplos etc;  
+- Proatividade: o principal papel do orientando (o aluno), evite a [Procrastinação](Material/Procrastinacao.pdf "Procrastinação");  
+- só vale a pena fazer essa disciplina quem quer fazer o TCC nos dois próximos semestres (TEM DATA DE VALIDADE);  
+- coorientador vai ser avaliador em SIS, mas não em BCC.  
 
 ## Tipos de TCC: visão geral
 
