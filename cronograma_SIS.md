@@ -11,6 +11,7 @@ Dia da semana: terça-feira (18:30\~22:00)
 | 16/08      | Entrega do Termo de Compromisso                 |  
 | 04/10      | Entrega do pré-projeto (curso de SIS)           |  
 | 22/11      | Entrega do Projeto                              |  
+|            |                                                 |  
 
 ## Cronograma Gantt
 
@@ -20,48 +21,22 @@ Dia da semana: terça-feira (18:30\~22:00)
 
 ![Fluxograma](cronogramaFluxograma.drawio.svg "fluxograma")  
 
-## Observações
-
-- Todas as entregas (Termo de Compromisso, Pré-Projeto e Projeto) devem ser encaminhadas por e-mail ao orientador que deverá repassar para o professor de TCC1 com um “De acordo”. Não encaminhe nada direto para o professor de TCC1 pois não será considerado válido.  
-- Certifique-se que o orientador fez o encaminhamento para o professor de TCC1.  
-- Encaminhamentos que não forem feitos (para o Pré-Projeto e Projeto) em até no máximo 3 dias após o prazo estabelecido implica na reprovação do estudante.  
-- Todos os arquivos encaminhados devem ser em formato "docx".  
-
-**ATENÇÃO**: sempre antes de encaminhar a entrega gere do arquivo "docx" um arquivo em "pdf" para verificar senão ocorreu nenhum erro.  
-
 ## Cronograma Completo
 
 ### [Aula_01] 02-08-2022 terça-feira
 
-- Apresentação do Professor  
-- Apresentação da Disciplina  
-- Tipos de TCC: visão geral  
-- Cronograma  
-- Regulamento do TCC  
-- Encaminhamentos para o Termo de Compromisso  
-- Diagnóstico sobre orientações  
-
-[anotacoesAula01](aula01Anotacoes.md "anotacoesAula01")  
+- [anotacoesAula01](aula01Anotacoes.md "anotacoesAula01")  
 
 ### [Aula_02] 09-08-2022 terça-feira
 
 <!-- [ ][ ] Aviso: Termo atraso <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391> -->  
-- Como estabelecer um problema de pesquisa  
-- Modelos dos Projetos  
-- Partes constituintes do Projeto  
-- Exemplos de Projetos  
 
-[anotacoesAula02](aula02Anotacoes.md "anotacoesAula02")  
+- [anotacoesAula02](aula02Anotacoes.md "anotacoesAula02")  
 
 ### [Aula_03] 16-08-2022 terça-feira
 
 - **Entrega do Termo de Compromisso de TCC**  
-- Erros de redação  
-- Normas ABNT: citações e referências  
-- Dicas do uso do Editor MS-Word  
-- Pré-Projeto - Formulação  
-
-[anotacoesAula03](aula03Anotacoes.md "anotacoesAula03")  
+- [anotacoesAula03](aula03Anotacoes.md "anotacoesAula03")  
 
 ### [Aula_04] 23-08-2022 terça-feira
 
@@ -106,13 +81,11 @@ Dia da semana: terça-feira (18:30\~22:00)
 
 ### [Aula_13] 25-10-2022 terça-feira
 
-- Orientações para o projeto  
-[anotacoesAula05](aula05Anotacoes.md "anotacoesAula05")  
+- [anotacoesAula05](aula05Anotacoes.md "anotacoesAula05")  
 
 ### [Aula_14] 01-11-2022 terça-feira
 
-- Como conduzir um estudo bibliográfico  
-[anotacoesAula05](aula05Anotacoes.md "anotacoesAula05")  
+- [anotacoesAula05](aula05Anotacoes.md "anotacoesAula05")  
 
 ### [Aula_15] 08-11-2022 terça-feira
 

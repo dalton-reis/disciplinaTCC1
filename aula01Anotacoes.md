@@ -12,7 +12,6 @@
 - Cronograma  
 - Regulamento do TCC  
 - Encaminhamentos para o Termo de Compromisso  
-- Diagnóstico sobre orientações  
 
 ## Apresentação do Professor
 
@@ -54,10 +53,13 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 
 - [RegulamentosTCC](regulamentos.md "RegulamentoTCC")  
 
-## Encaminhamentos para o Termo de Compromisso  
+## Termo de Compromisso  
 
-- Observações no inicio do cronograma  
-<!-- [ ][ ] FIXME: atualizar a página -->  
+O que deve ser feito para encaminhar o Termo de Compromisso:  
+
+- fazer o cadastro no [Currículo Lattes](<https://wwws.cnpq.br/cvlattesweb/pkg_cv_estr.inicio#> "Currículo Lattes");  
+- seguir as [Observações de Entrega](./cronograma.md#observações-de-entrega "Observações de Entrega") do inicio do cronograma;  
+<!-- [x][x] FIXME: atualizar a página -->  
 <!-- - [x][x] [lista professores do DSC](professoresDSC.md "lista professores do DSC") -->  
 ### [ ][ ] [lista professores do DSC](<http://dsc.inf.furb.br/professores> "lista professores do DSC")  
 
