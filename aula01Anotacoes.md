@@ -20,13 +20,13 @@
 ## Apresentação da Disciplina
 
 - **Avisos**: todos os avisos serão feitos por e-mail institucional (aluno@furb.br)  
-- [ ][ ] [AVA3 BCC]  
-- [ ][ ] [AVA3 SIS]  
+- [x][x] [AVA3 BCC]  
+- [x][x] [AVA3 SIS]  
 
 ### Plano de Ensino
 
-[ ][ ] [Plano Ensino AVA BCC]  
-[ ][ ] [Plano Ensino AVA SIS]  
+[x][x] [Plano Ensino AVA BCC]  
+[x][x] [Plano Ensino AVA SIS]  
 
 Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 
@@ -47,7 +47,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 
 ## Cronograma
 
-[ ][ ] [Cronograma](cronograma.md "Cronograma")  
+[x][x] [Cronograma](cronograma.md "Cronograma")  
 
 ## Regulamentos do TCC
 
@@ -61,10 +61,10 @@ O que deve ser feito para encaminhar o Termo de Compromisso:
 - seguir as [Observações de Entrega](./cronograma.md#observações-de-entrega "Observações de Entrega") do inicio do cronograma;  
 <!-- [x][x] FIXME: atualizar a página -->  
 <!-- - [x][x] [lista professores do DSC](professoresDSC.md "lista professores do DSC") -->  
-### [ ][ ] [lista professores do DSC](<http://dsc.inf.furb.br/professores> "lista professores do DSC")  
+### [x][x] [lista professores do DSC](<http://dsc.inf.furb.br/professores> "lista professores do DSC")  
 
-[ ][ ] [BCC_TermoCompromisso.docx](Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx")  
-[ ][ ] [SIS_TermoCompromisso.docx](Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
+[x][x] [BCC_TermoCompromisso.docx](Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx")  
+[x][x] [SIS_TermoCompromisso.docx](Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
 
 ## Diagnóstico sobre orientações
 
