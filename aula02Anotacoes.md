@@ -1,4 +1,4 @@
-# Aula02: Projeto - Visão Geral
+# Aula02: Problema de Pesquisa
 
 - Como estabelecer um problema de pesquisa  
 - Modelos dos Projetos  
