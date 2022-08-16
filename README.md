@@ -42,9 +42,9 @@ Para mais detalhes do [Cronograma](cronograma.md "Cronograma")
 
 [Aula01: Visão Geral da Disciplina](aula01Anotacoes.md "Aula01: Visão Geral da Disciplina")  
 [Aula02: Problema de Pesquisa](aula02Anotacoes.md "Aula02: Problema de Pesquisa")  
-[# Aula03: Projeto - Visão Geral](aula03Anotacoes.md "# Aula03: Projeto - Visão Geral")  
+[Aula03: Projeto - Visão Geral](aula03Anotacoes.md "Aula03: Projeto - Visão Geral")  
 [Aula04: Projeto - Visão Geral, continuação](aula04Anotacoes.md "Aula04: Projeto - Visão Geral, continuação")  
-[# Aula05: Projeto - Partes constituintes](aula05Anotacoes.md "# Aula05: Projeto - Partes constituintes")  
+[Aula05: Projeto - Partes constituintes](aula05Anotacoes.md "Aula05: Projeto - Partes constituintes")  
 [Aula10: Defesa Qualificação](aula10AnotacoesBCC.md "Aula10: Defesa Qualificação")  
 [Aula13: Projeto](aula13Anotacoes.md "Aula13: Projeto")  
 
