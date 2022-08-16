@@ -26,23 +26,27 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ### [Aula_01] 04-08-2022 quinta-feira
 
-- [anotacoesAula01](aula01Anotacoes.md "anotacoesAula01")  
+- [aula01Anotacoes](aula01Anotacoes.md "aula01Anotacoes")  
+- Termo - Formulação  
 
 ### [Aula_02] 11-08-2022 quinta-feira
 
 <!-- [ ][ ] Aviso: Termo atraso <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391> -->  
 
-- [anotacoesAula02](aula02Anotacoes.md "anotacoesAula02")  
+- [aula02Anotacoes](aula02Anotacoes.md "aula02Anotacoes")  
+- Termo - Formulação  
 
 ### [Aula_03] 18-08-2022 quinta-feira
 
 - **Entrega do Termo de Compromisso de TCC**  
-- [anotacoesAula03](aula03Anotacoes.md "anotacoesAula03")  
+- [aula03Anotacoes](aula03Anotacoes.md "aula03Anotacoes")  
+- Pré-Projeto - Formulação  
 
 ### [Aula_04] 25-08-2022 quinta-feira
 
 <!-- [ ][ ] Aviso: Orientadores <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750> -->
 <!-- [ ][ ] Aviso: banca BCC <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813> -->
+- [aula04Anotacoes](aula04Anotacoes.md "aula04Anotacoes")  
 - Pré-Projeto - Formulação  
 
 ### [Aula_05] 01-09-2022 quinta-feira
@@ -71,7 +75,7 @@ Dia da semana: quinta-feira (18:30\~22:00)
 ### [Aula_10] 06-10-2022 quinta-feira
 
 - Revisão dos Pré-Projeto pelos professores de TCC1 e avaliadores.  
-- [anotacoesAula04BCC](aula04AnotacoesBCC.md "anotacoesAula04BCC")  
+- [aula10AnotacoesBCC](aula10AnotacoesBCC.md "aula10AnotacoesBCC")  
 
 ### [Aula_11] 13-10-2022 quinta-feira
 
@@ -86,11 +90,11 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ### [Aula_13] 27-10-2022 quinta-feira
 
-- [anotacoesAula05](aula05Anotacoes.md "anotacoesAula05")  
+- [aula13Anotacoes](aula13Anotacoes.md "aula13Anotacoes")  
 
 ### [Aula_14] 03-11-2022 quinta-feira
 
-- [anotacoesAula05](aula05Anotacoes.md "anotacoesAula05")  
+- Análise do Pré-Projeto - Atendimento Individual  
 
 ### [Aula_15] 10-11-2022 quinta-feira
 
