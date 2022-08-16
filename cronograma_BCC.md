@@ -91,6 +91,7 @@ Dia da semana: quinta-feira (18:30\~22:00)
 ### [Aula_13] 27-10-2022 quinta-feira
 
 - [aula13Anotacoes](aula13Anotacoes.md "aula13Anotacoes")  
+- Análise do Pré-Projeto  
 
 ### [Aula_14] 03-11-2022 quinta-feira
 

@@ -87,6 +87,7 @@ Dia da semana: terça-feira (18:30\~22:00)
 ### [Aula_13] 25-10-2022 terça-feira
 
 - [aula13Anotacoes](aula13Anotacoes.md "aula13Anotacoes")  
+- Análise do Pré-Projeto  
 
 ### [Aula_14] 01-11-2022 terça-feira
 
