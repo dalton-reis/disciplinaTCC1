@@ -7,16 +7,16 @@
 
 ## Como estabelecer um problema de pesquisa
 
-[x][ ] [Slides_01AulaPesquisa.pdf](Material/Slides_01AulaPesquisa.pdf "Slides_01AulaPesquisa.pdf")  
+[x][x] [Slides_01AulaPesquisa.pdf](Material/Slides_01AulaPesquisa.pdf "Slides_01AulaPesquisa.pdf")  
 
 ## Modelos Projetos
 
 - ler com **muita atenção** os comentários descritos nos modelos;  
 - usar o modelo **correto** de acordo com o seu curso e modalidade.  
 
-[x][ ] [BCC_Projeto.docx](Material/BCC_Projeto.docx "BCC_Projeto.docx")  
-[x][ ] [SIS_Academico_Projeto.docx](Material/SIS_Academico_Projeto.docx "SIS_Academico_Projeto.docx")  
-[x][ ] [SIS_Aplicado_Projeto.docx](Material/SIS_Aplicado_Projeto.docx "SIS_Aplicado_Projeto.docx")  
+[x][x] [BCC_Projeto.docx](Material/BCC_Projeto.docx "BCC_Projeto.docx")  
+[x][x] [SIS_Academico_Projeto.docx](Material/SIS_Academico_Projeto.docx "SIS_Academico_Projeto.docx")  
+[x][x] [SIS_Aplicado_Projeto.docx](Material/SIS_Aplicado_Projeto.docx "SIS_Aplicado_Projeto.docx")  
 
 ## Quando iniciar Pré-Projeto?
 
