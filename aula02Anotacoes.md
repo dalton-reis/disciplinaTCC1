@@ -32,3 +32,12 @@
 - Nome, onde trabalha etc;  
 - Possível orientador (coorientador);  
 - Se já tem uma ideia do que quer fazer ...  
+
+----------
+
+### ⏭ [Aula 03](aula03Anotacoes.md "Aula 03")  
+
+<!--
+[FIXME: arrumar as fontes bibliográficas]  
+## Principais Referências Bibliográficas​
+-->

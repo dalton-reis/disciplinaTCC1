@@ -42,3 +42,12 @@
 
 [x][x] [BCC_ExemploPreProjeto](Exemplos/BCC "BCC_ExemploPreProjeto")  
 [x][x] [SIS_ExemploPreProjeto](Exemplos/SIS "SIS_ExemploPreProjeto")  
+
+----------
+
+### ⏭ [Aula 04](aula04Anotacoes.md "Aula 04")  
+
+<!--
+[FIXME: arrumar as fontes bibliográficas]  
+## Principais Referências Bibliográficas​
+-->
