@@ -35,7 +35,7 @@
 
 ----------
 
-### ⏭ [Aula 03](aula03Anotacoes.md "Aula 03")  
+## ⏭ [Aula 03](aula03Anotacoes.md "Aula 03")  
 
 <!--
 [FIXME: arrumar as fontes bibliográficas]  

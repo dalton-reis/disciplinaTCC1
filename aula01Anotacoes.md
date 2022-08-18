@@ -68,7 +68,7 @@ O que deve ser feito para encaminhar o Termo de Compromisso:
 
 ----------
 
-### ⏭ [Aula 02](aula02Anotacoes.md "Aula 02")  
+## ⏭ [Aula 02](aula02Anotacoes.md "Aula 02")  
 
 <!--
 [FIXME: arrumar as fontes bibliográficas]  
