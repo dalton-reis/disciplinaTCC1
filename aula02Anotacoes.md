@@ -7,7 +7,7 @@
 
 ## Como estabelecer um problema de pesquisa
 
-[x][x] [Slides_01AulaPesquisa.pdf](Material/Slides_01AulaPesquisa.pdf "Slides_01AulaPesquisa.pdf")  
+[x][x] [aula02Slides.pdf](aula02Slides.pdf "aula02Slides.pdf")  
 
 ## Modelos Projetos
 

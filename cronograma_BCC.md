@@ -31,7 +31,7 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ### [Aula_02] 11-08-2022 quinta-feira
 
-<!-- [ ][ ] Aviso: Termo atraso <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391> -->  
+<!-- [x] Aviso: Termo atraso <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391> -->  
 
 - [aula02Anotacoes](aula02Anotacoes.md "aula02Anotacoes")  
 - Termo - Formulação  
@@ -44,13 +44,14 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ### [Aula_04] 25-08-2022 quinta-feira
 
-<!-- [ ][ ] Aviso: Orientadores <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750> -->
-<!-- [ ][ ] Aviso: banca BCC <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813> -->
+<!-- [x] Aviso: Orientadores <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750> -->
 - [aula04Anotacoes](aula04Anotacoes.md "aula04Anotacoes")  
 - Pré-Projeto - Formulação  
 
 ### [Aula_05] 01-09-2022 quinta-feira
 
+<!-- [ ][ ] Aviso: banca BCC <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813> -->
+- [aula05Anotacoes](aula05Anotacoes.md "aula05Anotacoes")  
 - Pré-Projeto - Formulação  
 
 ### [Aula_06] 08-09-2022 quinta-feira
@@ -66,6 +67,7 @@ Dia da semana: quinta-feira (18:30\~22:00)
 ### [Aula_08] 22-09-2022 quinta-feira
 
 - Pré-Projeto - Atendimento Individual
+<!-- **[Atendimento BCC](Material/AtendimentoBCC.png "Atendimento BCC")** -->  
 
 ### [Aula_09] 29-09-2022 quinta-feira
 

@@ -5,7 +5,7 @@
 
 ## Partes constituintes do Projeto
 
-[x][x] [Slides_02AulaProjeto.pdf](Material/Slides_02AulaProjeto.pdf "Slides_02AulaProjeto.pdf")  
+[x][x] [aula03Slides.pdf](aula03Slides.pdf "aula03Slides.pdf")  
 
 - preencher os dados do cabeçalho;  
 - número de páginas.  
