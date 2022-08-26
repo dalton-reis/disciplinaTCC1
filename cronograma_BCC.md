@@ -31,7 +31,7 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ### [Aula_02] 11-08-2022 quinta-feira
 
-<!-- [x] Aviso: Termo atraso <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391> -->  
+<!-- \[AVISO] Termo atraso https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391 -->  
 
 - [aula02Anotacoes](aula02Anotacoes.md "aula02Anotacoes")  
 - Termo - Formulação  
@@ -44,13 +44,13 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ### [Aula_04] 25-08-2022 quinta-feira
 
-<!-- [x] Aviso: Orientadores <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750> -->
+<!-- \[AVISO] Orientadores https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750 -->
 - [aula04Anotacoes](aula04Anotacoes.md "aula04Anotacoes")  
 - Pré-Projeto - Formulação  
 
 ### [Aula_05] 01-09-2022 quinta-feira
 
-<!-- [ ][ ] Aviso: banca BCC <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813> -->
+<!-- \[ ] Aviso: banca BCC https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813 -->
 - [aula05Anotacoes](aula05Anotacoes.md "aula05Anotacoes")  
 - Pré-Projeto - Formulação  
 
@@ -60,7 +60,7 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ### [Aula_07] 15-09-2022 quinta-feira
 
-<!-- [ ][ ] aviso Atendimento BCC: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67514804> -->  
+<!-- \[ ] aviso Atendimento BCC: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67514804 -->  
 - Pré-Projeto - Atendimento Individual  
 <!-- **[Atendimento BCC](Material/AtendimentoBCC.png "Atendimento BCC")** -->  
 
@@ -88,7 +88,7 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 - Revisão dos Pré-Projeto pelos professores de TCC1 e avaliadores.  
 - **Semana de bancas (BCC)**  
-- [Escola Regional de Engenharia de Software - ERES](<https://eres-sbc-br.github.io/eres2022/> "Escola Regional de Engenharia de Software - ERES")  
+- [Escola Regional de Engenharia de Software - ERES](https://eres-sbc-br.github.io/eres2022/ "Escola Regional de Engenharia de Software - ERES")  
 
 ### [Aula_13] 27-10-2022 quinta-feira
 

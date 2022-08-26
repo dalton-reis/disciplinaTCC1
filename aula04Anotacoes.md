@@ -4,7 +4,7 @@
 
 ## Partes constituintes do Projeto
 
-[x][x] [aula04Slides.pdf](aula04Slides.pdf "aula04Slides.pdf")  
+\[SIS]\[BCC] [aula04Slides.pdf](aula04Slides.pdf "aula04Slides.pdf")  
 
 ### Proposta
 
@@ -34,6 +34,7 @@
 ### Revisão Bibliográfica
 
 - Coerente com o contexto do projeto.  
+- Como conduzir um estudo bibliográfico.  
 - Cuidado com o limite de páginas do projeto.  
   - BCC:  
     - pré-projeto: mínimo 6 (seis) e no máximo 10 (dez) páginas (incluindo referências e assinaturas);  
@@ -42,8 +43,8 @@
     - pré-projeto: mínimo 8 (oito) e no máximo 12 (doze) páginas (incluindo referências e assinaturas);  
     - projeto deve ter no mínimo 12 (doze) e no máximo 16 (dezesseis) páginas (incluindo referências e assinaturas).  
 - Buscar material para "poder" escrever:
-  - [ ][x] [Portais de Busca FURB](<https://www.furb.br/web/4570/servicos/biblioteca/portais-de-busca> "Portais de Busca FURB")  
-  - [ ][x] [TCCs do DSC](<http://dsc.inf.furb.br/tcc/index.php?cd=3> "TCCs do DSC")  
+  - \[ ]\[BCC][Portais de Busca FURB](https://www.furb.br/web/4570/servicos/biblioteca/portais-de-busca "Portais de Busca FURB")  
+  - \[ ]\[BCC] [TCCs do DSC](http://dsc.inf.furb.br/tcc/index.php?cd=3 "TCCs do DSC")  
 
 ### Referências
 
@@ -63,7 +64,7 @@
 
 Não usar, só para conhecimento ...  
 
-- [ ][ ][Arquivos das fichas de avaliação](Material/Fichas "Arquivos das fichas de avaliação")  
+- \[ ]\[ ] [Arquivos das fichas de avaliação](Material/Fichas "Arquivos das fichas de avaliação")  
 
 ----------
 

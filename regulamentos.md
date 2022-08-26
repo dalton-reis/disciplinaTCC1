@@ -1,7 +1,7 @@
 # Regulamentos
 
-[ ][ ] [BCC_RegulamentoTCC](Material/BCC_RegulamentoTCC.md "BCC_RegulamentoTCC")  
-[ ][ ] [SIS_RegulamentoTCC](Material/SIS_RegulamentoTCC.md "SIS_RegulamentoTCC")  
+\[BCC] [BCC_RegulamentoTCC](Material/BCC_RegulamentoTCC.md "BCC_RegulamentoTCC")  
+\[SIS] [SIS_RegulamentoTCC](Material/SIS_RegulamentoTCC.md "SIS_RegulamentoTCC")  
 
 ## Resumo Regulamento do TCC do BCC e SIS (links do BCC)
 

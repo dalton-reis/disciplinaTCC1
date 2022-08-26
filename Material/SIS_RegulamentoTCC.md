@@ -1,6 +1,6 @@
 # Regulamento do TCC do SIS
 
-[Link Original](<https://www.furb.br/web/upl/graduacao/regulamento/201703080930400.RESOLUCAO%20059-2016-SISTEMAS%20DE%20INFORMACAO.pdf> "Link Original")  
+[Link Original](https://www.furb.br/web/upl/graduacao/regulamento/201703080930400.RESOLUCAO%20059-2016-SISTEMAS%20DE%20INFORMACAO.pdf "Link Original")  
 
 ## RESOLUÇÃO N° 059/2016, DE 31 DE OUTUBRO DE 2016
 

@@ -1,6 +1,6 @@
 @startgantt cronograma_BCC
 
-/'TODO: tentar usar variáveis do sistema: <https://blog.jdriven.com/2017/01/plantuml-pleasantness-using-current-date/>  '/
+/'TODO: tentar usar variáveis do sistema: https://blog.jdriven.com/2017/01/plantuml-pleasantness-using-current-date/  '/
 /'atualizar'/
 !$dataInicio = "2022-08-04"
 !$dataFim  = "2022-12-03"

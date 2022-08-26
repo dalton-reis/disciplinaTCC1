@@ -1,6 +1,6 @@
 # Regulamento do TCC do BCC
 
-[Link Original](<https://www.furb.br/web/upl/graduacao/regulamento/201609271352290.RESOLUCAO%20020-2016-CIENCIA%20DA%20COMPUTACAO.pdf> "Link Original")  
+[Link Original](https://www.furb.br/web/upl/graduacao/regulamento/201609271352290.RESOLUCAO%20020-2016-CIENCIA%20DA%20COMPUTACAO.pdf "Link Original")  
 
 ## RESOLUÇÃO N° 020/2016, DE 10 DE JUNHO DE 2016
 

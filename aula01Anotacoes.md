@@ -1,8 +1,8 @@
-<!-- [x][x]TODO:INICIO atualizar -->
-[AVA3 BCC]: <https://ava3.furb.br/course/view.php?id=31568> "AVA3 BCC"  
-[Plano Ensino AVA BCC]: <https://ava3.furb.br/course/view.php?id=31568&section=1> "Plano Ensino AVA BCC"  
-[AVA3 SIS]: <https://ava3.furb.br/course/view.php?id=31567> "AVA3 BCC"  
-[Plano Ensino AVA SIS]: <https://ava3.furb.br/course/view.php?id=31567&section=1> "Plano Ensino AVA BCC"  
+<!-- \[INICIO] atualizar -->
+[AVA3 BCC]: https://ava3.furb.br/course/view.php?id=31568 "AVA3 BCC"  
+[Plano Ensino AVA BCC]: https://ava3.furb.br/course/view.php?id=31568&section=1 "Plano Ensino AVA BCC"  
+[AVA3 SIS]: https://ava3.furb.br/course/view.php?id=31567 "AVA3 BCC"  
+[Plano Ensino AVA SIS]: https://ava3.furb.br/course/view.php?id=31567&section=1 "Plano Ensino AVA BCC"  
 
 # Aula01: Visão Geral da Disciplina
 
@@ -20,13 +20,13 @@
 ## Apresentação da Disciplina
 
 - **Avisos**: todos os avisos serão feitos por e-mail institucional (aluno@furb.br)  
-- [x][x] [AVA3 BCC]  
-- [x][x] [AVA3 SIS]  
+- \[BCC] [AVA3 BCC]  
+- \[SIS] [AVA3 SIS]  
 
 ### Plano de Ensino
 
-[x][x] [Plano Ensino AVA BCC]  
-[x][x] [Plano Ensino AVA SIS]  
+\[BCC] [Plano Ensino AVA BCC]  
+\[SIS] [Plano Ensino AVA SIS]  
 
 Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 
@@ -47,7 +47,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 
 ## Cronograma
 
-[x][x] [Cronograma](cronograma.md "Cronograma")  
+\[SIS]\[BCC] [Cronograma](cronograma.md "Cronograma")  
 
 ## Regulamentos do TCC
 
@@ -57,14 +57,13 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 
 O que deve ser feito para encaminhar o Termo de Compromisso:  
 
-- fazer o cadastro no [Currículo Lattes](<https://wwws.cnpq.br/cvlattesweb/pkg_cv_estr.inicio#> "Currículo Lattes"); Faça o cadastro o quanto antes, não precisa esperar para ter os dados do termo (conversar com orientador etc.);  
+- fazer o cadastro no [Currículo Lattes](https://wwws.cnpq.br/cvlattesweb/pkg_cv_estr.inicio# "Currículo Lattes"); Faça o cadastro o quanto antes, não precisa esperar para ter os dados do termo (conversar com orientador etc.);  
 - seguir as [Observações de Entrega](./cronograma.md#observações-de-entrega "Observações de Entrega") do inicio do cronograma;  
-<!-- [x][x] FIXME: atualizar a página -->  
-<!-- - [x][x] [lista professores do DSC](professoresDSC.md "lista professores do DSC") -->  
-### [x][x] [lista professores do DSC](<http://dsc.inf.furb.br/professores> "lista professores do DSC")  
+<!-- - \[SIS]\[BCC] [lista professores do DSC](professoresDSC.md "lista professores do DSC") -->  
+### \[SIS]\[BCC] [lista professores do DSC](http://dsc.inf.furb.br/professores "lista professores do DSC")  
 
-[x][x] [BCC_TermoCompromisso.docx](Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx")  
-[x][x] [SIS_TermoCompromisso.docx](Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
+\[BCC] [BCC_TermoCompromisso.docx](Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx")  
+\[SIS] [SIS_TermoCompromisso.docx](Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
 
 ----------
 
