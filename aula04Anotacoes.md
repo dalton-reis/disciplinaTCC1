@@ -4,7 +4,7 @@
 
 ## Partes constituintes do Projeto
 
-[ ][x] [aula04Slides.pdf](aula04Slides.pdf "aula04Slides.pdf")  
+[x][x] [aula04Slides.pdf](aula04Slides.pdf "aula04Slides.pdf")  
 
 ### Proposta
 
@@ -42,8 +42,8 @@
     - pré-projeto: mínimo 8 (oito) e no máximo 12 (doze) páginas (incluindo referências e assinaturas);  
     - projeto deve ter no mínimo 12 (doze) e no máximo 16 (dezesseis) páginas (incluindo referências e assinaturas).  
 - Buscar material para "poder" escrever:
-  - [ ][ ] [Portais de Busca FURB](<https://www.furb.br/web/4570/servicos/biblioteca/portais-de-busca> "Portais de Busca FURB")  
-  - [ ][ ] [TCCs do DSC](<http://dsc.inf.furb.br/tcc/index.php?cd=3> "TCCs do DSC")  
+  - [ ][x] [Portais de Busca FURB](<https://www.furb.br/web/4570/servicos/biblioteca/portais-de-busca> "Portais de Busca FURB")  
+  - [ ][x] [TCCs do DSC](<http://dsc.inf.furb.br/tcc/index.php?cd=3> "TCCs do DSC")  
 
 ### Referências
 
@@ -62,9 +62,8 @@
 - Professor Avaliador  
 
 Não usar, só para conhecimento ...  
-[ ][ ] [BCC_PreProjeto_FichaTCC1.docx](Material/BCC_PreProjeto_FichaTCC1.docx "BCC_PreProjeto_FichaTCC1.docx")  
-[ ][ ] [SIS_PreProjetoAcademico_FichaTCC1.docx](Material/SIS_PreProjetoAcademico_FichaTCC1.docx "SIS_PreProjetoAcademico_FichaTCC1.docx")  
-[ ][ ] [SIS_PreProjetoAplicado_FichaTCC1.docx](Material/SIS_PreProjetoAplicado_FichaTCC1.docx "SIS_PreProjetoAplicado_FichaTCC1.docx")  
+
+- [ ][ ][Arquivos das fichas de avaliação](Material/Fichas "Arquivos das fichas de avaliação")  
 
 ----------
 
