@@ -32,6 +32,11 @@
 - Pode ser relacionado aos requisitos (1, 2, mas não todos)
 - Tem que pensar aonde que vocês querem chegar com o software e não nas funções que ele vai ter. As funções são requisitos.
 
+### Continuação TCC
+
+Caso o seu TCC seja uma continuação de um TCC anterior se tem uma seção a mais antes da seção dos trabalhos correlatos.
+[Ver Exemplo](Exemplos/SIS/PreProjeto_MuriloBartel.pdf "Ver Exemplo")  
+
 ### Trabalhos Correlatos
 
 - SIS - descrição do sistema atual  

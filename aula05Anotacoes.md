@@ -1,14 +1,15 @@
 # Aula05: Projeto - Partes constituintes  
 
 - Erros de redação  
+- Termos Estrangeiros  
 - Normas ABNT: citações e referências  
 - Dicas do uso do Editor MS-Word  
 - Pré-Projeto - Formulação  
 
 ## Erros de redação
 
-\[ ]\[ ] [Exemplo_RedacaoAntes.pdf](Material/Exemplo_RedacaoAntes.pdf "Exemplo_RedacaoAntes.pdf")  
-\[ ]\[ ] [Exemplo_RedacaoDepois.pdf](Material/Exemplo_RedacaoDepois.pdf "Exemplo_RedacaoDepois.pdf")  
+\[SIS]\[ ] [Exemplo_RedacaoAntes.pdf](Material/Exemplo_RedacaoAntes.pdf "Exemplo_RedacaoAntes.pdf")  
+\[SIS]\[ ] [Exemplo_RedacaoDepois.pdf](Material/Exemplo_RedacaoDepois.pdf "Exemplo_RedacaoDepois.pdf")  
 
 ## Termos Estrangeiros
 
@@ -26,12 +27,12 @@ Existe algumas exceções que são:
 - Trazer informações fundamentais (dados com referência) de preferência que não seja notícia de site, blog ou jornal  
 - sites para formatar [More-UFSC](https://more.ufsc.br/inicio "More-UFSC"), [Mendeley](https://www.mendeley.com "Mendeley"), [ResearchGate](https://www.researchgate.net "ResearchGate"), [Zotero](https://www.zotero.org "Zotero") etc.  
 
-\[ ]\[ ] [Geral_ComoFazer_Citacoes.pdf](Material/Geral_ComoFazer_Citacoes.pdf "Geral_ComoFazer_Citacoes.pdf")  
-\[ ]\[ ] [Geral_ComoFazer_ReferenciasBibliograficas.pdf](Material/Geral_ComoFazer_ReferenciasBibliograficas.pdf "Geral_ComoFazer_ReferenciasBibliograficas.pdf")  
+\[SIS]\[ ] [Geral_ComoFazer_Citacoes.pdf](Material/Geral_ComoFazer_Citacoes.pdf "Geral_ComoFazer_Citacoes.pdf")  
+\[SIS]\[ ] [Geral_ComoFazer_ReferenciasBibliograficas.pdf](Material/Geral_ComoFazer_ReferenciasBibliograficas.pdf "Geral_ComoFazer_ReferenciasBibliograficas.pdf")  
 
 ## Dicas do uso do Editor MS-Word
 
-- \[ ]\[ ] Formatação: estilos, inserir legenda e referência cruzada  
+- \[SIS]\[ ] Formatação: estilos, inserir legenda e referência cruzada  
 
 ## Pré-Projeto - Formulação  
 

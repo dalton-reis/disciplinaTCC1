@@ -49,12 +49,12 @@ Dia da semana: terça-feira (18:30\~22:00)
 
 ### [Aula_05] 30-08-2022 terça-feira
 
-<!-- \[ ] banca SIS https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445856 -->  
 - [aula05Anotacoes](aula05Anotacoes.md "aula05Anotacoes")  
 - Pré-Projeto - Formulação  
 
 ### [Aula_06] 06-09-2022 terça-feira
 
+<!-- \[ ] banca SIS https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445856 -->  
 - Pré-Projeto - Formulação  
 
 ### [Aula_07] 13-09-2022 terça-feira
