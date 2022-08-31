@@ -13,7 +13,7 @@
 
 ## Termos Estrangeiros
 
-As palavras que não pertencem ao conjunto de palavras do idioma Português (Brasileiro) são consideradas como termo estrangeiro. E os termos estrangeiros devem ser formatadas com itálico. Na dúvida se uma palavra pertence ou não ao nosso idioma consulte [https://michaelis.uol.com.br](https://michaelis.uol.com.br "https://michaelis.uol.com.br").  
+As palavras que não pertencem ao conjunto de palavras do idioma Português (Brasileiro) são consideradas como termo estrangeiro. E os termos estrangeiros devem ser formatados com itálico. Na dúvida se uma palavra pertence ou não ao nosso idioma consulte [https://michaelis.uol.com.br](https://michaelis.uol.com.br "https://michaelis.uol.com.br").  
 
 <!-- FIXME: material sobre lista de palavras que não são em itálico -->
 Existe algumas exceções que são:
