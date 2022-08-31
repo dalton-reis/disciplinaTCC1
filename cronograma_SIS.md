@@ -84,6 +84,7 @@ Dia da semana: terça-feira (18:30\~22:00)
 
 - Revisão dos Pré-Projeto pelos professores de TCC1 e avaliadores.  
 - [Escola Regional de Engenharia de Software - ERES](https://eres-sbc-br.github.io/eres2022/ "Escola Regional de Engenharia de Software - ERES")  
+- **não tem aula**  
 
 ### [Aula_13] 25-10-2022 terça-feira
 
