@@ -43,7 +43,7 @@
   - SIS:
     - pré-projeto: mínimo 8 (oito) e no máximo 12 (doze) páginas (incluindo referências e assinaturas);  
     - projeto deve ter no mínimo 12 (doze) e no máximo 16 (dezesseis) páginas (incluindo referências e assinaturas).  
-    - **Atenção**: descrição completa no pré-projeto e projeto. [Ver exemplo](Exemplos/SIS/PreProjeto_LuizCarlosBurigo.pdf "Ver exemplo")  
+    - **Atenção**: descrição completa no pré-projeto e projeto. [Ver exemplo](../Exemplos/SIS/PreProjeto_LuizCarlosBurigo.pdf "Ver exemplo")  
 - Buscar material para "poder" escrever:
   - \[SIS]\[BCC][Portais de Busca FURB](https://www.furb.br/web/4570/servicos/biblioteca/portais-de-busca "Portais de Busca FURB")  
   - \[SIS]\[BCC] [TCCs do DSC](http://dsc.inf.furb.br/tcc/index.php?cd=3 "TCCs do DSC")  
@@ -66,7 +66,7 @@
 
 Não usar, só para conhecimento ...  
 
-- \[SIS]\[ ] [Arquivos das fichas de avaliação](Material/Fichas "Arquivos das fichas de avaliação")  
+- \[SIS]\[ ] [Arquivos das fichas de avaliação](../Material/Fichas "Arquivos das fichas de avaliação")  
 
 ----------
 
