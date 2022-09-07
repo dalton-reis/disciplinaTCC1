@@ -53,7 +53,7 @@ Dia da semana: quinta-feira (18:30\~22:00)
 - [aula05Anotacoes](Aulas/aula05Anotacoes.md "aula05Anotacoes")  
 - Pré-Projeto - Formulação  
 
-<!-- \[ ] Aviso: banca BCC https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813 -->
+<!-- \[AVISO] banca BCC https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813 -->
 ### [Aula_06] 08-09-2022 quinta-feira
 
 - Pré-Projeto - Formulação  
