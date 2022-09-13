@@ -38,6 +38,10 @@ Este é o principal material da disciplina de Trabalho de Conclusão de Curso I.
 
 Para mais detalhes do [Cronograma](cronograma.md "Cronograma")  
 
+## Dicionário
+
+Consulta a palavras em português e se são termos estrangeiros: [Termos Estrangeiros](Aulas/aula05Anotacoes.md#termos-estrangeiros "Termos Estrangeiros")  
+
 ## Anotações de Aula
 
 [Aula01: Visão Geral da Disciplina](Aulas/aula01Anotacoes.md "Aula01: Visão Geral da Disciplina")  
