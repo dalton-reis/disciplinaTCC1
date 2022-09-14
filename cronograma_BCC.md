@@ -61,7 +61,8 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ### [Aula_07] 15-09-2022 quinta-feira
 
-<!-- \[ ] aviso Atendimento BCC: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67514804 -->  
+<!-- \[ ] aviso Atendimento BCC: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660899 -->
+
 - Pré-Projeto - Atendimento Individual  
 ![Atendimento BCC](Aulas/AtendimentoBCC_A.png "Atendimento BCC")  
 
