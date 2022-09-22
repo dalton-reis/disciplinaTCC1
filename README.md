@@ -20,7 +20,7 @@ Este é o principal material da disciplina de Trabalho de Conclusão de Curso I.
 
 ### Links BCC
 
-[Matriz curricular BCC](matriz_BCC.pdf "Matriz curricular BCC")  
+[Matriz curricular BCC](Aulas/matriz_BCC.pdf "Matriz curricular BCC")  
 [AVA3 BCC]  
 [Plano Ensino AVA BCC]  
 [Aulas MS-Teams BCC]  
@@ -28,7 +28,7 @@ Este é o principal material da disciplina de Trabalho de Conclusão de Curso I.
 
 ### Links SIS
 
-[Matriz curricular SIS](matriz_SIS.pdf "Matriz curricular SIS")  
+[Matriz curricular SIS](Aulas/matriz_SIS.pdf "Matriz curricular SIS")  
 [AVA3 SIS]  
 [Plano Ensino AVA SIS]  
 [Aulas MS-Teams SIS]  
@@ -36,7 +36,7 @@ Este é o principal material da disciplina de Trabalho de Conclusão de Curso I.
 
 ## Cronograma
 
-Para mais detalhes do [Cronograma](cronograma.md "Cronograma")  
+Para mais detalhes do [Cronograma](Cronogramas/cronograma.md "Cronograma")  
 
 ## Dicionário
 

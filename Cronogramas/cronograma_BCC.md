@@ -16,7 +16,7 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ## Cronograma Gantt
 
-![Cronograma Gantt](./svg/cronograma_BCC.svg "Cronograma Gantt")  
+![Cronograma Gantt](../svg/cronograma_BCC.svg "Cronograma Gantt")  
 
 ## Fluxograma
 
@@ -26,31 +26,31 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ### [Aula_01] 04-08-2022 quinta-feira
 
-- [aula01Anotacoes](Aulas/aula01Anotacoes.md "aula01Anotacoes")  
+- [aula01Anotacoes](../Aulas/aula01Anotacoes.md "aula01Anotacoes")  
 - Termo - Formulação  
 
 ### [Aula_02] 11-08-2022 quinta-feira
 
 <!-- \[AVISO] Termo atraso https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391 -->  
 
-- [aula02Anotacoes](Aulas/aula02Anotacoes.md "aula02Anotacoes")  
+- [aula02Anotacoes](../Aulas/aula02Anotacoes.md "aula02Anotacoes")  
 - Termo - Formulação  
 
 ### [Aula_03] 18-08-2022 quinta-feira
 
 - **Entrega do Termo de Compromisso de TCC**  
-- [aula03Anotacoes](Aulas/aula03Anotacoes.md "aula03Anotacoes")  
+- [aula03Anotacoes](../Aulas/aula03Anotacoes.md "aula03Anotacoes")  
 - Pré-Projeto - Formulação  
 
 ### [Aula_04] 25-08-2022 quinta-feira
 
 <!-- \[AVISO] Orientadores https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750 -->
-- [aula04Anotacoes](Aulas/aula04Anotacoes.md "aula04Anotacoes")  
+- [aula04Anotacoes](../Aulas/aula04Anotacoes.md "aula04Anotacoes")  
 - Pré-Projeto - Formulação  
 
 ### [Aula_05] 01-09-2022 quinta-feira
 
-- [aula05Anotacoes](Aulas/aula05Anotacoes.md "aula05Anotacoes")  
+- [aula05Anotacoes](../Aulas/aula05Anotacoes.md "aula05Anotacoes")  
 - Pré-Projeto - Formulação  
 
 <!-- \[AVISO] banca BCC https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813 -->
@@ -61,15 +61,15 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ### [Aula_07] 15-09-2022 quinta-feira
 
-<!-- \[ ] aviso Atendimento BCC: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660899 -->
+<!-- \[AVISO] Atendimento BCC: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660899 -->
 
 - Pré-Projeto - Atendimento Individual  
-![Atendimento BCC](Aulas/AtendimentoBCC_A.png "Atendimento BCC")  
+![Atendimento BCC](../Aulas/AtendimentoBCC_A.png "Atendimento BCC")  
 
 ### [Aula_08] 22-09-2022 quinta-feira
 
 - Pré-Projeto - Atendimento Individual
-![Atendimento BCC](Aulas/AtendimentoBCC_B.png "Atendimento BCC")  
+![Atendimento BCC](../Aulas/AtendimentoBCC_B.png "Atendimento BCC")  
 
 ### [Aula_09] 29-09-2022 quinta-feira
 
@@ -79,7 +79,7 @@ Dia da semana: quinta-feira (18:30\~22:00)
 ### [Aula_10] 06-10-2022 quinta-feira
 
 - Revisão dos Pré-Projeto pelos professores de TCC1 e avaliadores.  
-- [aula10AnotacoesBCC](Aulas/aula10AnotacoesBCC.md "aula10AnotacoesBCC")  
+- [aula10AnotacoesBCC](../Aulas/aula10AnotacoesBCC.md "aula10AnotacoesBCC")  
 
 ### [Aula_11] 13-10-2022 quinta-feira
 
@@ -95,12 +95,13 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ### [Aula_13] 27-10-2022 quinta-feira
 
-- [aula13Anotacoes](Aulas/aula13Anotacoes.md "aula13Anotacoes")  
-- Análise do Pré-Projeto  
+- **Não teremos aula**
+- estarei no evento: <https://sbgames.org/sbgames2022/>  
 
 ### [Aula_14] 03-11-2022 quinta-feira
 
-- Análise do Pré-Projeto - Atendimento Individual  
+- [aula13Anotacoes](../Aulas/aula13Anotacoes.md "aula13Anotacoes")  
+- Análise do Pré-Projeto  
 
 ### [Aula_15] 10-11-2022 quinta-feira
 

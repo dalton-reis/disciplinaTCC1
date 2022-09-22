@@ -20,6 +20,8 @@ Existe algumas exceções que são:
 
 ## Normas ABNT: citações e referências
 
+<!-- \[AVISO] aviso Link Web - norma ABNT: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85687425 -->
+
 - comentar sobre as citações e citações direta  
 - os dois tipos de citações  
 - uso de numeração de página nas citações  
