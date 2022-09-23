@@ -42,6 +42,10 @@ Para mais detalhes do [Cronograma](Cronogramas/cronograma.md "Cronograma")
 
 Consulta a palavras em português e se são termos estrangeiros: [Termos Estrangeiros](Aulas/aula05Anotacoes.md#termos-estrangeiros "Termos Estrangeiros")  
 
+## Anotações PDF
+
+Se vocês receberem as revisão do pré-projeto feita pelo seu orientador, e for em um arquivo PDF, cuidem para abrir o arquivo PDF num leitor de PDF e não somente no navegador (Chrome, Safari etc.). Pois se abrirem direto no navegador vocês verão o texto "riscado" (frisado) mas não verão as anotações. Então usem um leitor de PDF instalado localmente no seu PC.  
+
 ## Anotações de Aula
 
 [Aula01: Visão Geral da Disciplina](Aulas/aula01Anotacoes.md "Aula01: Visão Geral da Disciplina")  
