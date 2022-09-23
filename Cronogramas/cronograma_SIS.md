@@ -62,7 +62,7 @@ Dia da semana: terça-feira (18:30\~22:00)
 <!-- \[AVISO] Atendimento SIS: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660797 -->
 
 - Pré-Projeto - Atendimento Individual  
-![Atendimento SIS](../Aulas/AtendimentoSIS.png "Atendimento SIS")  
+![Atendimento SIS](../Cronogramas/AtendimentoSIS.png "Atendimento SIS")  
 
 ### [Aula_08] 20-09-2022 terça-feira
 

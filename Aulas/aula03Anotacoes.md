@@ -10,6 +10,21 @@
 - preencher os dados do cabeçalho;  
 - número de páginas.  
 
+### Por onde começar?
+
+Bom, não existe uma sequência única para seguir na descrição do Pré-Projeto. Algumas vezes o próprio orientador sugere uma sequência, então consulte ele. Mas o mais importante é começar a pesquisar, ler, se apropriar do conteúdo e escrever. Eu particularmente indico está sequência:
+
+- [Continuação TCC - se existir](#continuação-tcc "Continuação TCC - se existir")  
+- [Trabalhos Correlatos](#trabalhos-correlatos "Trabalhos Correlatos")  
+- [Justificativa](./aula04Anotacoes.md#justificativa "Justificativa")  
+- [Objetivos](#objetivo "Objetivos")  
+- [Requisitos](./aula04Anotacoes.md#requisitos "Requisitos")  
+- [Metodologia](./aula04Anotacoes.md#metodologia "Metodologia")  
+- [Introdução](#introdução "Introdução")  
+- [Revisão Bibliográfica](./aula04Anotacoes.md#revisão-bibliográfica "Revisão Bibliográfica")  
+
+Já as [Referências](./aula04Anotacoes.md#referências "Referências") é bom não deixar por último. Já ir fazendo enquanto vai se usando o material em si que se quer referenciar no texto. Sim, formatar as citações no texto e [Referências](./aula04Anotacoes.md#referências "Referências") não é algo fácil de se fazer. Mas é um "mal necessário", pois as normas da ABNT exige que se use o padrão definido.
+
 ### Introdução
 
 - 1 página - máximo 1 página e meia  
