@@ -47,6 +47,7 @@
 - Buscar material para "poder" escrever:
   - \[SIS]\[BCC][Portais de Busca FURB](https://www.furb.br/web/4570/servicos/biblioteca/portais-de-busca "Portais de Busca FURB")  
   - \[SIS]\[BCC] [TCCs do DSC](http://dsc.inf.furb.br/tcc/index.php?cd=3 "TCCs do DSC")  
+- Acessar de fora da FURB usando VPN: [https://www10.furb.br/manuais/manual-vpn-furb.php](https://www10.furb.br/manuais/manual-vpn-furb.php "https://www10.furb.br/manuais/manual-vpn-furb.php")  
 
 ### Referências
 
