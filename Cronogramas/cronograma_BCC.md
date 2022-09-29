@@ -6,13 +6,13 @@ Dia da semana: quinta-feira (18:30\~22:00)
 ## Cronograma Resumido
 
 <!-- ☞ bbf1208b-fad1-418c-a756-d8618c7a1419 -->
-| Prazo      | Atividade                                       |  
-| ---------- | ----------------------------------------------- |  
-| 18/08      | Entrega do Termo de Compromisso                 |  
-| 29/09      | Entrega do pré-projeto (curso de BCC)           |  
-| 10 a 21/10 | Semana de bancas de qualificação (curso de BCC) |  
-| 17/11      | Entrega do Projeto                              |  
-|            |                                                 |
+| Prazo              | Atividade                                       |  
+| -------------------| ----------------------------------------------- |  
+| 18/08              | Entrega do Termo de Compromisso                 |  
+| 29/09 - 06/10      | Entrega do pré-projeto (curso de BCC)           |  
+| 10 a 21/10         | Semana de bancas de qualificação (curso de BCC) |  
+| 17/11              | Entrega do Projeto                              |  
+|                    |                                                 |
 
 ## Cronograma Gantt
 
