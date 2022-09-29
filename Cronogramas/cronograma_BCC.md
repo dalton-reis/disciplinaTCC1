@@ -78,13 +78,14 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ### [Aula_10] 06-10-2022 quinta-feira
 
-- Revisão dos Pré-Projeto pelos professores de TCC1 e avaliadores.  
 - [aula10AnotacoesBCC](../Aulas/aula10AnotacoesBCC.md "aula10AnotacoesBCC")  
+- Revisão dos Pré-Projeto pelos professores de TCC1 e avaliadores.  
 
 ### [Aula_11] 13-10-2022 quinta-feira
 
 - Revisão dos Pré-Projeto pelos professores de TCC1 e avaliadores.  
 - **Semana de bancas (BCC)**  
+- **não tem aula**  
 
 ### [Aula_12] 20-10-2022 quinta-feira
 
@@ -95,8 +96,8 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ### [Aula_13] 27-10-2022 quinta-feira
 
-- **Não teremos aula**
 - estarei no evento: <https://sbgames.org/sbgames2022/>  
+- **Não teremos aula**
 
 ### [Aula_14] 03-11-2022 quinta-feira
 
