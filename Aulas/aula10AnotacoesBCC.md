@@ -23,7 +23,7 @@ Também que é uma apresentação de conteúdo, e não de venda comercial, entã
 
 A estrutura e a quantidades de slides não é fixa, e o orientando e/ou orientador podem ajustar a sua preferência.  
 
-Mas como parâmetro podem usar:
+Mas como parâmetro podem usar:  
   1 slide: título, nome aluno, nome orientador e nome coorientador (se houver)  
   1 slide: Introdução  
   1 slide: Objetivo geral e específicos  
