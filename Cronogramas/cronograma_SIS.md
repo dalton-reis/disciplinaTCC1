@@ -76,8 +76,10 @@ Dia da semana: terça-feira (18:30\~22:00)
 
 - **Entrega do Pré-Projeto (SIS)**  
 
+
 ### \[Aula_11] 11-10-2022 terça-feira
 
+<!-- \[AVISO] Revisão dos Pré-Projetos: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-86157761 -->
 - Revisão dos Pré-Projetos pelos professores de TCC1 e avaliadores.  
 
 ### \[Aula_12] 18-10-2022 terça-feira

@@ -83,6 +83,7 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ### \[Aula_11] 13-10-2022 quinta-feira
 
+<!-- \[ ] Revisão dos Pré-Projetos: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-86157761 -->
 - Revisão dos Pré-Projetos pelos professores de TCC1 e avaliadores.  
 - **Semana de bancas (BCC)**  
 - **não tem aula**  
