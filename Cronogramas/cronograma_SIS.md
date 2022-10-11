@@ -15,7 +15,7 @@ Dia da semana: terça-feira (18:30\~22:00)
 
 ## Cronograma Gantt
 
-![Cronograma Gantt](../svg/cronograma_SIS.svg "Cronograma Gantt")  
+![Cronograma Gantt](../svg/Cronogramas/cronograma_SIS.svg "Cronograma Gantt")  
 
 ## Fluxograma
 

@@ -16,7 +16,7 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ## Cronograma Gantt
 
-![Cronograma Gantt](../svg/cronograma_BCC.svg "Cronograma Gantt")  
+![Cronograma Gantt](../svg/Cronogramas/cronograma_BCC.svg "Cronograma Gantt")  
 
 ## Fluxograma
 
