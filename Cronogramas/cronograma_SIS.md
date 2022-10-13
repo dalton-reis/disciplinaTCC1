@@ -25,31 +25,31 @@ Dia da semana: terça-feira (18:30\~22:00)
 
 ### \[Aula_01] 02-08-2022 terça-feira
 
-- \[aula01Anotacoes](../Aulas/aula01Anotacoes.md "aula01Anotacoes")  
+- [aula01Anotacoes](../Aulas/aula01Anotacoes.md "aula01Anotacoes")  
 - Termo - Formulação  
 
 ### \[Aula_02] 09-08-2022 terça-feira
 
 <!-- \[AVISO] Termo atraso https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391 -->  
 
-- \[aula02Anotacoes](../Aulas/aula02Anotacoes.md "aula02Anotacoes")  
+- [aula02Anotacoes](../Aulas/aula02Anotacoes.md "aula02Anotacoes")  
 - Termo - Formulação  
 
 ### \[Aula_03] 16-08-2022 terça-feira
 
 - **Entrega do Termo de Compromisso de TCC**  
-- \[aula03Anotacoes](../Aulas/aula03Anotacoes.md "aula03Anotacoes")  
+- [aula03Anotacoes](../Aulas/aula03Anotacoes.md "aula03Anotacoes")  
 - Pré-Projeto - Formulação  
 
 ### \[Aula_04] 23-08-2022 terça-feira
 
 <!-- \[AVISO] Orientadores https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750 -->
-- \[aula04Anotacoes](../Aulas/aula04Anotacoes.md "aula04Anotacoes")  
+- [aula04Anotacoes](../Aulas/aula04Anotacoes.md "aula04Anotacoes")  
 - Pré-Projeto - Formulação  
 
 ### \[Aula_05] 30-08-2022 terça-feira
 
-- \[aula05Anotacoes](../Aulas/aula05Anotacoes.md "aula05Anotacoes")  
+- [aula05Anotacoes](../Aulas/aula05Anotacoes.md "aula05Anotacoes")  
 - Pré-Projeto - Formulação  
 
 ### \[Aula_06] 06-09-2022 terça-feira
@@ -76,7 +76,6 @@ Dia da semana: terça-feira (18:30\~22:00)
 
 - **Entrega do Pré-Projeto (SIS)**  
 
-
 ### \[Aula_11] 11-10-2022 terça-feira
 
 <!-- \[AVISO] Revisão dos Pré-Projetos: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-86157761 -->
@@ -95,7 +94,7 @@ Dia da semana: terça-feira (18:30\~22:00)
 
 ### \[Aula_14] 01-11-2022 terça-feira
 
-- \[aula13Anotacoes](../Aulas/aula13Anotacoes.md "aula13Anotacoes")  
+- [aula13Anotacoes](../Aulas/aula13Anotacoes.md "aula13Anotacoes")  
 - Análise do Pré-Projeto  
 
 ### \[Aula_15] 08-11-2022 terça-feira
