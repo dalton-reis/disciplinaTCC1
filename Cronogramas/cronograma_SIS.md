@@ -10,7 +10,7 @@ Dia da semana: terça-feira (18:30\~22:00)
 | ------------------ | ----------------------------------------------- |  
 | 16/08              | Entrega do Termo de Compromisso                 |  
 | 04/10 - 11/10      | Entrega do pré-projeto (curso de SIS)           |  
-| 22/11              | Entrega do Projeto                              |  
+| 29/11              | Entrega do Projeto                              |  
 |                    |                                                 |  
 
 ## Cronograma Gantt
