@@ -107,11 +107,12 @@ Feriado: Proclamação da República
 
 ### \[Aula_17] 22-11-2022 terça-feira
 
-- **Entrega do Projeto**  
+- Análise do Pré-Projeto - Atendimento Individual  
 - Avaliação dos Projetos (banca)  
 
 ### \[Aula_18] 29-11-2022 terça-feira
 
+- **Entrega do Projeto**  
 - Avaliação dos Projetos (banca)  
 
 ### 13-12-2022

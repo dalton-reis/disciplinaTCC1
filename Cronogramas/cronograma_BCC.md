@@ -111,15 +111,17 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ### \[Aula_16] 17-11-2022 quinta-feira
 
-- **Entrega do Projeto**  
+<!-- - **Entrega do Projeto**  -->
 - Análise do Pré-Projeto - Atendimento Individual  
 
 ### \[Aula_17] 24-11-2022 quinta-feira
 
+- Análise do Pré-Projeto - Atendimento Individual  
 - Avaliação dos Projetos (banca)  
 
 ### \[Aula_18] 01-12-2022 quinta-feira
 
+- **Entrega do Projeto**
 - Avaliação dos Projetos (banca)  
 
 ### 13-12-2022
